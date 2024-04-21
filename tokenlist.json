@@ -13,7 +13,7 @@
 			"symbol": "WHPB",
 			"decimals": 18,
 			"chainId": 269,
-			"logoURI": "https://dex.hpbnode.com/download/token-list/logo/asset_whpb.svg"
+			"logoURI": "https://raw.githubusercontent.com/jpowell79/HPB-tokenlist/main/logos/whpb.png"
 		},
 		{
 			"name": "ESR Token",
