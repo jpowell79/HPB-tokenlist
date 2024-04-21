@@ -1,6 +1,6 @@
 {
 	"name": "hpdex token list",
-	"logoURI": "https://dex.hpbnode.com/download/token-list/logo/hpb-interface.svg",
+	"logoURI": "https://raw.githubusercontent.com/jpowell79/HPB-tokenlist/main/logos/hpb.png",
 	"keywords": [
 		"hpdex",
 		"defi"
